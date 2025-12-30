@@ -1,4 +1,4 @@
-# 🏦 Banco Python – Sistema Bancário Orientado a Objetos
+#  Banco Python – Sistema Bancário Orientado a Objetos
 
 Projeto de um **sistema bancário em Python**, desenvolvido com foco em **Programação Orientada a Objetos (POO)**, boas práticas e organização de código.  
 Permite o cadastro de clientes, criação de contas, depósitos, saques e visualização de extrato.
@@ -12,18 +12,18 @@ Permite o cadastro de clientes, criação de contas, depósitos, saques e visual
 </p>
 
 
-## 📌 Funcionalidades
+## Funcionalidades
 
-- 👤 Cadastro de clientes (Pessoa Física)
-- 🏦 Criação de conta corrente
-- 💰 Depósito em conta
-- 💸 Saque com regras de limite
-- 📄 Extrato detalhado com histórico de transações
-- 📋 Listagem de contas cadastradas
+-  Cadastro de clientes (Pessoa Física)
+-  Criação de conta corrente
+-  Depósito em conta
+-  Saque com regras de limite
+-  Extrato detalhado com histórico de transações
+-  Listagem de contas cadastradas
 
 ---
 
-## 🧠 Regras de Negócio Implementadas
+##  Regras de Negócio Implementadas
 
 - Saque limitado a **R$ 500,00 por operação**
 - Máximo de **3 saques diários**
@@ -34,7 +34,7 @@ Permite o cadastro de clientes, criação de contas, depósitos, saques e visual
 
 ---
 
-## 🏗️ Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 O sistema foi modelado utilizando conceitos sólidos de POO:
 
@@ -57,7 +57,7 @@ O sistema foi modelado utilizando conceitos sólidos de POO:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3**
 - Módulos padrão:
@@ -70,4 +70,5 @@ O sistema foi modelado utilizando conceitos sólidos de POO:
 ## 👨‍💻 Autor
 
 - **Afonso Rafael**
+
 Estudante de Back-End e apaixonado por tecnologia, focado em Python, Java e desenvolvimento de sistemas.
