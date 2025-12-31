@@ -25,4 +25,4 @@ Implemente uma classe Veiculo que represente um carro com marca, modelo e ano. C
 
 
 # Atenção: 
-    É extremamente importante que as entradas e saídas sejam exatamente iguais às descritas na descrição do desafio de código.
+ -   É extremamente importante que as entradas e saídas sejam exatamente iguais às descritas na descrição do desafio de código.
